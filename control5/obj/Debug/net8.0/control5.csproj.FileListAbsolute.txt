@@ -1,0 +1,14 @@
+C:\Users\igors\VisualStudio\proectirovanie\control5\obj\Debug\net8.0\control5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igors\VisualStudio\proectirovanie\control5\obj\Debug\net8.0\control5.AssemblyInfoInputs.cache
+C:\Users\igors\VisualStudio\proectirovanie\control5\obj\Debug\net8.0\control5.AssemblyInfo.cs
+C:\Users\igors\VisualStudio\proectirovanie\control5\obj\Debug\net8.0\control5.csproj.CoreCompileInputs.cache
+C:\Users\igors\VisualStudio\proectirovanie\control5\bin\Debug\net8.0\control5.exe
+C:\Users\igors\VisualStudio\proectirovanie\control5\bin\Debug\net8.0\control5.deps.json
+C:\Users\igors\VisualStudio\proectirovanie\control5\bin\Debug\net8.0\control5.runtimeconfig.json
+C:\Users\igors\VisualStudio\proectirovanie\control5\bin\Debug\net8.0\control5.dll
+C:\Users\igors\VisualStudio\proectirovanie\control5\bin\Debug\net8.0\control5.pdb
+C:\Users\igors\VisualStudio\proectirovanie\control5\obj\Debug\net8.0\control5.dll
+C:\Users\igors\VisualStudio\proectirovanie\control5\obj\Debug\net8.0\refint\control5.dll
+C:\Users\igors\VisualStudio\proectirovanie\control5\obj\Debug\net8.0\control5.pdb
+C:\Users\igors\VisualStudio\proectirovanie\control5\obj\Debug\net8.0\control5.genruntimeconfig.cache
+C:\Users\igors\VisualStudio\proectirovanie\control5\obj\Debug\net8.0\ref\control5.dll

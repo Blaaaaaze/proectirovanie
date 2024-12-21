@@ -1,0 +1,14 @@
+C:\Users\igors\VisualStudio\proectirovanie\control1\bin\Debug\net8.0\control1.exe
+C:\Users\igors\VisualStudio\proectirovanie\control1\bin\Debug\net8.0\control1.deps.json
+C:\Users\igors\VisualStudio\proectirovanie\control1\bin\Debug\net8.0\control1.runtimeconfig.json
+C:\Users\igors\VisualStudio\proectirovanie\control1\bin\Debug\net8.0\control1.dll
+C:\Users\igors\VisualStudio\proectirovanie\control1\bin\Debug\net8.0\control1.pdb
+C:\Users\igors\VisualStudio\proectirovanie\control1\obj\Debug\net8.0\control1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igors\VisualStudio\proectirovanie\control1\obj\Debug\net8.0\control1.AssemblyInfoInputs.cache
+C:\Users\igors\VisualStudio\proectirovanie\control1\obj\Debug\net8.0\control1.AssemblyInfo.cs
+C:\Users\igors\VisualStudio\proectirovanie\control1\obj\Debug\net8.0\control1.csproj.CoreCompileInputs.cache
+C:\Users\igors\VisualStudio\proectirovanie\control1\obj\Debug\net8.0\control1.dll
+C:\Users\igors\VisualStudio\proectirovanie\control1\obj\Debug\net8.0\refint\control1.dll
+C:\Users\igors\VisualStudio\proectirovanie\control1\obj\Debug\net8.0\control1.pdb
+C:\Users\igors\VisualStudio\proectirovanie\control1\obj\Debug\net8.0\control1.genruntimeconfig.cache
+C:\Users\igors\VisualStudio\proectirovanie\control1\obj\Debug\net8.0\ref\control1.dll

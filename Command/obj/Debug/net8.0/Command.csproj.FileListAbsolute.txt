@@ -1,0 +1,14 @@
+C:\Users\igors\VisualStudio\proectirovanie\Command\obj\Debug\net8.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igors\VisualStudio\proectirovanie\Command\obj\Debug\net8.0\Command.AssemblyInfoInputs.cache
+C:\Users\igors\VisualStudio\proectirovanie\Command\obj\Debug\net8.0\Command.AssemblyInfo.cs
+C:\Users\igors\VisualStudio\proectirovanie\Command\obj\Debug\net8.0\Command.csproj.CoreCompileInputs.cache
+C:\Users\igors\VisualStudio\proectirovanie\Command\bin\Debug\net8.0\Command.exe
+C:\Users\igors\VisualStudio\proectirovanie\Command\bin\Debug\net8.0\Command.deps.json
+C:\Users\igors\VisualStudio\proectirovanie\Command\bin\Debug\net8.0\Command.runtimeconfig.json
+C:\Users\igors\VisualStudio\proectirovanie\Command\bin\Debug\net8.0\Command.dll
+C:\Users\igors\VisualStudio\proectirovanie\Command\bin\Debug\net8.0\Command.pdb
+C:\Users\igors\VisualStudio\proectirovanie\Command\obj\Debug\net8.0\Command.dll
+C:\Users\igors\VisualStudio\proectirovanie\Command\obj\Debug\net8.0\refint\Command.dll
+C:\Users\igors\VisualStudio\proectirovanie\Command\obj\Debug\net8.0\Command.pdb
+C:\Users\igors\VisualStudio\proectirovanie\Command\obj\Debug\net8.0\Command.genruntimeconfig.cache
+C:\Users\igors\VisualStudio\proectirovanie\Command\obj\Debug\net8.0\ref\Command.dll

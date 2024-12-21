@@ -1,0 +1,14 @@
+C:\Users\igors\VisualStudio\proectirovanie\ChainofResponsibility\bin\Debug\net8.0\ChainofResponsibility.exe
+C:\Users\igors\VisualStudio\proectirovanie\ChainofResponsibility\bin\Debug\net8.0\ChainofResponsibility.deps.json
+C:\Users\igors\VisualStudio\proectirovanie\ChainofResponsibility\bin\Debug\net8.0\ChainofResponsibility.runtimeconfig.json
+C:\Users\igors\VisualStudio\proectirovanie\ChainofResponsibility\bin\Debug\net8.0\ChainofResponsibility.dll
+C:\Users\igors\VisualStudio\proectirovanie\ChainofResponsibility\bin\Debug\net8.0\ChainofResponsibility.pdb
+C:\Users\igors\VisualStudio\proectirovanie\ChainofResponsibility\obj\Debug\net8.0\ChainofResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igors\VisualStudio\proectirovanie\ChainofResponsibility\obj\Debug\net8.0\ChainofResponsibility.AssemblyInfoInputs.cache
+C:\Users\igors\VisualStudio\proectirovanie\ChainofResponsibility\obj\Debug\net8.0\ChainofResponsibility.AssemblyInfo.cs
+C:\Users\igors\VisualStudio\proectirovanie\ChainofResponsibility\obj\Debug\net8.0\ChainofResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\igors\VisualStudio\proectirovanie\ChainofResponsibility\obj\Debug\net8.0\ChainofResponsibility.dll
+C:\Users\igors\VisualStudio\proectirovanie\ChainofResponsibility\obj\Debug\net8.0\refint\ChainofResponsibility.dll
+C:\Users\igors\VisualStudio\proectirovanie\ChainofResponsibility\obj\Debug\net8.0\ChainofResponsibility.pdb
+C:\Users\igors\VisualStudio\proectirovanie\ChainofResponsibility\obj\Debug\net8.0\ChainofResponsibility.genruntimeconfig.cache
+C:\Users\igors\VisualStudio\proectirovanie\ChainofResponsibility\obj\Debug\net8.0\ref\ChainofResponsibility.dll

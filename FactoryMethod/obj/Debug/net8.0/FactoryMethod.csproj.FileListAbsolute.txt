@@ -1,0 +1,14 @@
+C:\Users\igors\VisualStudio\proectirovanie\FactoryMethod\obj\Debug\net8.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igors\VisualStudio\proectirovanie\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\igors\VisualStudio\proectirovanie\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfo.cs
+C:\Users\igors\VisualStudio\proectirovanie\FactoryMethod\obj\Debug\net8.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\igors\VisualStudio\proectirovanie\FactoryMethod\bin\Debug\net8.0\FactoryMethod.exe
+C:\Users\igors\VisualStudio\proectirovanie\FactoryMethod\bin\Debug\net8.0\FactoryMethod.deps.json
+C:\Users\igors\VisualStudio\proectirovanie\FactoryMethod\bin\Debug\net8.0\FactoryMethod.runtimeconfig.json
+C:\Users\igors\VisualStudio\proectirovanie\FactoryMethod\bin\Debug\net8.0\FactoryMethod.dll
+C:\Users\igors\VisualStudio\proectirovanie\FactoryMethod\bin\Debug\net8.0\FactoryMethod.pdb
+C:\Users\igors\VisualStudio\proectirovanie\FactoryMethod\obj\Debug\net8.0\FactoryMethod.dll
+C:\Users\igors\VisualStudio\proectirovanie\FactoryMethod\obj\Debug\net8.0\refint\FactoryMethod.dll
+C:\Users\igors\VisualStudio\proectirovanie\FactoryMethod\obj\Debug\net8.0\FactoryMethod.pdb
+C:\Users\igors\VisualStudio\proectirovanie\FactoryMethod\obj\Debug\net8.0\FactoryMethod.genruntimeconfig.cache
+C:\Users\igors\VisualStudio\proectirovanie\FactoryMethod\obj\Debug\net8.0\ref\FactoryMethod.dll

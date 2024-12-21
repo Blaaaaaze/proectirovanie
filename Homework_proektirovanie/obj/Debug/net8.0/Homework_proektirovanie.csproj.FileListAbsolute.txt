@@ -1,0 +1,14 @@
+C:\Users\igors\VisualStudio\proectirovanie\Homework_proektirovanie\bin\Debug\net8.0\Homework_proektirovanie.exe
+C:\Users\igors\VisualStudio\proectirovanie\Homework_proektirovanie\bin\Debug\net8.0\Homework_proektirovanie.deps.json
+C:\Users\igors\VisualStudio\proectirovanie\Homework_proektirovanie\bin\Debug\net8.0\Homework_proektirovanie.runtimeconfig.json
+C:\Users\igors\VisualStudio\proectirovanie\Homework_proektirovanie\bin\Debug\net8.0\Homework_proektirovanie.dll
+C:\Users\igors\VisualStudio\proectirovanie\Homework_proektirovanie\bin\Debug\net8.0\Homework_proektirovanie.pdb
+C:\Users\igors\VisualStudio\proectirovanie\Homework_proektirovanie\obj\Debug\net8.0\Homework_proektirovanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igors\VisualStudio\proectirovanie\Homework_proektirovanie\obj\Debug\net8.0\Homework_proektirovanie.AssemblyInfoInputs.cache
+C:\Users\igors\VisualStudio\proectirovanie\Homework_proektirovanie\obj\Debug\net8.0\Homework_proektirovanie.AssemblyInfo.cs
+C:\Users\igors\VisualStudio\proectirovanie\Homework_proektirovanie\obj\Debug\net8.0\Homework_proektirovanie.csproj.CoreCompileInputs.cache
+C:\Users\igors\VisualStudio\proectirovanie\Homework_proektirovanie\obj\Debug\net8.0\Homework_proektirovanie.dll
+C:\Users\igors\VisualStudio\proectirovanie\Homework_proektirovanie\obj\Debug\net8.0\refint\Homework_proektirovanie.dll
+C:\Users\igors\VisualStudio\proectirovanie\Homework_proektirovanie\obj\Debug\net8.0\Homework_proektirovanie.pdb
+C:\Users\igors\VisualStudio\proectirovanie\Homework_proektirovanie\obj\Debug\net8.0\Homework_proektirovanie.genruntimeconfig.cache
+C:\Users\igors\VisualStudio\proectirovanie\Homework_proektirovanie\obj\Debug\net8.0\ref\Homework_proektirovanie.dll

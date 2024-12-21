@@ -1,0 +1,14 @@
+C:\Users\igors\VisualStudio\proectirovanie\Control6\bin\Debug\net8.0\Control6.exe
+C:\Users\igors\VisualStudio\proectirovanie\Control6\bin\Debug\net8.0\Control6.deps.json
+C:\Users\igors\VisualStudio\proectirovanie\Control6\bin\Debug\net8.0\Control6.runtimeconfig.json
+C:\Users\igors\VisualStudio\proectirovanie\Control6\bin\Debug\net8.0\Control6.dll
+C:\Users\igors\VisualStudio\proectirovanie\Control6\bin\Debug\net8.0\Control6.pdb
+C:\Users\igors\VisualStudio\proectirovanie\Control6\obj\Debug\net8.0\Control6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igors\VisualStudio\proectirovanie\Control6\obj\Debug\net8.0\Control6.AssemblyInfoInputs.cache
+C:\Users\igors\VisualStudio\proectirovanie\Control6\obj\Debug\net8.0\Control6.AssemblyInfo.cs
+C:\Users\igors\VisualStudio\proectirovanie\Control6\obj\Debug\net8.0\Control6.csproj.CoreCompileInputs.cache
+C:\Users\igors\VisualStudio\proectirovanie\Control6\obj\Debug\net8.0\Control6.dll
+C:\Users\igors\VisualStudio\proectirovanie\Control6\obj\Debug\net8.0\refint\Control6.dll
+C:\Users\igors\VisualStudio\proectirovanie\Control6\obj\Debug\net8.0\Control6.pdb
+C:\Users\igors\VisualStudio\proectirovanie\Control6\obj\Debug\net8.0\Control6.genruntimeconfig.cache
+C:\Users\igors\VisualStudio\proectirovanie\Control6\obj\Debug\net8.0\ref\Control6.dll
